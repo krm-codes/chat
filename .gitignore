@@ -1,0 +1,16 @@
+# Node and React
+chatbot-app/node_modules/
+chatbot-app/build/
+local_model_cache/
+
+# Python
+venv/
+__pycache__/
+*.py[cod]
+
+# Environment and Database Files
+.env
+orders.db
+
+# macOS files
+.DS_Store
